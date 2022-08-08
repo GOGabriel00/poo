@@ -1,2 +1,2 @@
 # poo
-Curso de Programación Orientada a Objetos.
+González Gabriel Omar.
